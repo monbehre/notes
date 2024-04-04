@@ -1,3 +1,3 @@
 function buttonClick() {
-    alert("You have clicked the button! Hooray!")
+    alert("You have clicked the button! Huzzah!")
 }
