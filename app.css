@@ -1,5 +1,14 @@
+@keyframes h1am {
+    0%   {background-color: rgb(4, 0, 255);}
+    25%  {background-color: rgb(44, 88, 171);}
+    50%  {background-color: rgb(48, 101, 174);}
+    100% {background-color: rgb(39, 191, 208);}
+  }
+
 h1 {
     color : pink;
+    animation-name: h1am;
+    animation-duration: 4s;
 }
 
 body {
